@@ -1,4 +1,4 @@
-# Calendar Project
+# Calendar App
 
 A lightweight, Java‑Swing desktop application for personal scheduling that bundles
 appointments, reminders, and holidays into an intuitive month‑, day‑ and list‑based view.
